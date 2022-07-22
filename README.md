@@ -1,3 +1,3 @@
-# K-Nearest-Neighbors Exercise
+# K-Nearest-Neighbors Tutorial
 
-This exercise concerns K-Nearest Neighbors excercise on an artificial dataset. The dataset is included in this repo. 
+In this tutorial, I will work with a fake dataset to demonstrate the implementation of K-Nearest Neighbors. The dataset file is in csv format and it is included in this repo. 
